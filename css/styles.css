@@ -1,0 +1,16 @@
+img {
+    width: 300px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 10px;
+}
+
+.lorem {
+    color: brown;
+    margin-top: 50px;
+    float: left;
+}
+
+.Projects {
+    margin-top: 250px;
+}
