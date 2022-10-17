@@ -5,6 +5,7 @@
      .mypicture {
          width: 300px;
          border-radius: 30px;
+         border-style: dashed;
          float: left;
          margin: left 200px;
          ;
