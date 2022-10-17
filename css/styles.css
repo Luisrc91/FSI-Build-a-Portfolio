@@ -1,16 +1,22 @@
-img {
-    width: 300px;
-    border-radius: 20px;
-    float: left;
-    margin-right: 10px;
-}
+     body {
+         background-color: rgb(171, 226, 246);
+     }
 
-.lorem {
-    color: brown;
-    margin-top: 50px;
-    float: left;
-}
+     img {
+         width: 300px;
+         border-radius: 20px;
+         float: left;
+         margin: left 200px;
+         ;
+     }
 
-.Projects {
-    margin-top: 250px;
-}
+     .lorem {
+         color: brown;
+         margin-top: 50px;
+         margin-left: 20px;
+         float: left;
+     }
+
+     .Projects {
+         margin-top: 300px;
+     }
